@@ -57,7 +57,7 @@ export const projects = [
   {
     id: nanoid(),
     img: 'https://images.ctfassets.net/9hqy7qxsk85h/2gbFDc1TUdc6xrGv3FTrCo/e4b8065177a0e1630aec43bb0961ec6d/Screenshot_2024-08-02_010358.png',
-    url: 'https://react-vite-projects-9-color-generator.netlify.app/',
+    url: 'https://react-projects-krsnavc.netlify.app/',
     github: 'https://github.com/krsnavc/contentful_cms',
     title: 'contentful CMS',
     text: 'Developed a headless CMS that offers a user-friendly back-end for managing content, with separate front-end integration. This setup provides flexibility and scalability, allowing content distribution across various channels and devices.',
