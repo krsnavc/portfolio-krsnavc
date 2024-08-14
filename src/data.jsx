@@ -62,4 +62,12 @@ export const projects = [
     title: 'contentful CMS',
     text: 'Developed a headless CMS that offers a user-friendly back-end for managing content, with separate front-end integration. This setup provides flexibility and scalability, allowing content distribution across various channels and devices.',
   },
+  {
+    id: nanoid(),
+    img: 'https://images.ctfassets.net/9hqy7qxsk85h/1pVOLvJQPDPH3Dk8OsjICW/3f5eedc319aac956ac7f05fca7b04424/Screenshot_2024-08-14_143738.png',
+    url: 'https://mixmaster-a-cocktail-guide.netlify.app/',
+    github: 'https://github.com/krsnavc/mixmaster',
+    title: 'Mixmaster',
+    text: 'MixMaster is a React-based Single-Page Application utilizing React Router for seamless navigation, fetching cocktail data from TheCocktailDB API, and styled with Styled Components for a polished, responsive design',
+  },
 ];
